@@ -1,6 +1,18 @@
 # pandas-python-project
 
-### Display name and marks of female students.
+
+## 🌟 Project Overview
+
+This project is a detailed **Exploratory Data Analysis (EDA)** performed on a synthetic student dataset using **Python** and the powerful **Pandas** library. The primary goal was to demonstrate strong proficiency in fundamental data manipulation, cleaning, and analysis techniques to extract meaningful insights from raw data.
+
+The project covers a comprehensive workflow, from checking data quality to performing conditional filtering and statistical aggregations.
+
+## ✨ Key Analysis and Tasks Performed
+
+The analysis was executed through a series of steps to thoroughly explore the dataset:
+
+
+### Q1-Display name and marks of female students.
 ```
 a=df[df["Gender"] =="Female"] [["Name","Marks"]]
 print(a)
@@ -105,3 +117,25 @@ print(df)
 ```
 print(df.columns) 
 ```
+
+
+## 🛠 Technologies Used
+
+| Tool | Description |
+| :--- | :--- |
+| **Python** | The core programming language used for scripting. |
+| **Pandas** | Essential library for data structures and data analysis operations. |
+
+
+
+## 🧑‍💻 Author
+
+This project was developed by:
+
+* **Name:** Ammar Khan
+* **Email:** ammarkhan6949@gmail.com
+
+
+
+
+
