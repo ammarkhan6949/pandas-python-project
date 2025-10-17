@@ -7,6 +7,9 @@ This project is a detailed **Exploratory Data Analysis (EDA)** performed on a sy
 
 The project covers a comprehensive workflow, from checking data quality to performing conditional filtering and statistical aggregations.
 
+
+**Pdf Link ** [pandas project_compressed.pdf](https://github.com/user-attachments/files/22969641/pandas.project_compressed.pdf)
+
 ## ✨ Key Analysis and Tasks Performed
 
 The analysis was executed through a series of steps to thoroughly explore the dataset:
